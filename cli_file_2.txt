@@ -2,7 +2,13 @@ test2
 another change before commiting
 David's branch
 Another change
+<<<<<<< HEAD
 PaPa  2:59 PM
 asasds
 Papa's change
 bhlk
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> acf923e795ccfcfd469b2cd5c3e5188b47809ae6
+>>>>>>> parent of 4c4b77f... Update cli_file_2.txt
