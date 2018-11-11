@@ -1,6 +1,4 @@
 test2
 another change before commiting
 Another change
-<<<<<<< HEAD
-=======
->>>>>>> acf923e795ccfcfd469b2cd5c3e5188b47809ae6
+PaPa  2:59 PM
